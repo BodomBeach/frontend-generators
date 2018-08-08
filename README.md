@@ -1,3 +1,6 @@
+# (add:  gem'jquery-rails')
+
+
 # FrontendGenerators
 
 This gem can be used to easily set up a [Start Bootstrap](http://startbootstrap.com/template-categories/all/) theme in your Rails application.  The Start Bootstrap code has fully been modified to follow Rails conventions (Rails partials are awesome!).
